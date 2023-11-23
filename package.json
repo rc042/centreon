@@ -76,7 +76,7 @@
     "dom-serializer": "^0.1.1",
     "install": "^0.13.0",
     "loaders.css": "^0.1.2",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.43",
     "numeral": "^2.0.6",
     "query-string": "^5.1.1",
     "react": "^16.8.6",
