@@ -79,7 +79,7 @@
     "moment-timezone": "^0.5.26",
     "numeral": "^2.0.6",
     "query-string": "^5.1.1",
-    "react": "^16.8.6",
+    "react": "^16.14.0",
     "react-dom": "^16.8.6",
     "react-full-screen": "^0.2.4",
     "react-fullscreen-crossbrowser": "^1.0.9",
